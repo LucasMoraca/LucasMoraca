@@ -16,7 +16,7 @@
 ## IDEs que utilizo
 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="NetBeans" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" />
+<img align="left" alt="NetBeans" width="30px" style="padding-right:24px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <br>
 
