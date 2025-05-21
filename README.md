@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMoraca&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoraca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMoraca&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoraca&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lkm_666/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaskmoraca@gmail.com)
 ## Linguagens que estudei
