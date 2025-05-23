@@ -16,12 +16,12 @@
 
 ## IDEs que utilizo
 
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /><br><br>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /><br>
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <div>
     <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
     <span>NetBeans</span>
-  </div><br><br>
+  </div><br>
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<br><br>
+<br>
 
