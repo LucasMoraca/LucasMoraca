@@ -39,13 +39,4 @@ Apaixonado por tecnologia, desenvolvimento de software e por construir aplicaç�
   <img align="center" alt="MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasMoraca&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/LucasMoraca)
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoraca&layout=compact&theme=dark)](https://github.com/LucasMoraca)
-
-</div>
