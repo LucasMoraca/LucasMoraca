@@ -43,7 +43,9 @@ Apaixonado por tecnologia, desenvolvimento de software e por construir aplicaç�
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMoraca&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoraca&layout=compact&theme=dark" alt="Linguagens mais utilizadas" />
+<div align="center">
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasMoraca&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/LucasMoraca)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoraca&layout=compact&theme=dark)](https://github.com/LucasMoraca)
+
 </div>
